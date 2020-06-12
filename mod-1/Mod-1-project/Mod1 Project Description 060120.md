@@ -35,6 +35,8 @@ You may scrape or make API calls to get additional data, but included in the rep
 - Rotten Tomatoes
 - TheMovieDB.org
 
+You __MUST__ use at least two data sources in your final project.
+
 # The Deliverables
 
 1. A well documented **Master Jupyter Notebook** containing any code you've written for this project and comments explaining it.  Think of this as an executive summary document that summarizes your findings and contains narration. This work will need to be pushed to your GitHub repository in order to submit your project.  
@@ -49,8 +51,8 @@ For this project, your Jupyter Notebook should meet the following specifications
 
 #### Organization/Code Cleanliness
 
-* The notebooks should include a section that claearly outlines the questions you will be answering and the purpose of the project.
-* The notebook should be well organized, easy to follow,  and code should be commented where appropriate.  Be sure to utilize the markdown cells to provide headings for sections and include a logocal sequence.  
+* The notebooks should include a section that clearly outlines the questions you will be answering and the purpose of the project.
+* The notebook should be well organized, easy to follow,  and code should be commented where appropriate.  Be sure to utilize the markdown cells to provide headings for sections and include a logical sequence.  
     * Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code.  All functions have docstrings that act as professional-quality documentation
 * To make sure your notebook is clean you may want to use functions imported from external .py files.
 * The notebook is written for technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.
@@ -82,7 +84,7 @@ Your presentation should:
 
 ### 1. Getting Started
 
-Please start by reviewing this document. If you have any questions, please ask them in Slack ASAP so (a) we can answer the questions and (b) so we can update this repository to make it clearer.
+Please start by reviewing this document. If you have any questions, please contact your instructors in Slack ASAP so (a) we can answer the questions and (b) so we can update this repository to make it clearer.
 
 ### 2. Project Pitch- Monday
 
@@ -95,7 +97,7 @@ You will meet with your instructors on Monday to "pitch" your project idea.  Be 
 
 ### 3. CRISP-DM Check-In- Tuesday
 
-You will meet with the coaches to discuss your progress on the project and your plan for the rest of the week to make sure you are on the right track.  We will be focusing on the steps of the CRISP-DM model.  Be prepared to answer the following questions.
+You will meet with the instructors to discuss your progress on the project and your plan for the rest of the week to make sure you are on the right track.  We will be focusing on the steps of the CRISP-DM model.  Be prepared to answer the following questions.
 
 - Business Understanding
    - Have you clearly defined your goal for your analysis?
@@ -118,9 +120,9 @@ You will meet with the coaches to discuss your progress on the project and your 
    - Are these visualizations effective at communicating the solution to your business question/enhancing your story?
 
 
-### 4. Practie Presentations- Wednesday
+### 4. Practice Presentations- Wednesday
 
-Each group will practice presentation their presentation.  You are expected to have a solid draft of your presentation and a mostly completed notebook at this time.  At this point the instructors and your peers will provide verbal feedback which can be incorportated in your final presentation.
+Each group will practice presentation their presentation.  You are expected to have a solid draft of your presentation and a mostly completed notebook at this time.  At this point the instructors and your peers will provide verbal feedback which can be incorporated in your final presentation.
 
 ### 5. Project Presentations- Thursday
 You will present your project to the class using your slidedeck.  This presentation should not take more than 5 minutes and should be directed towards a non-technical audience.  Both partners should participate in the presentation of the project.  Additionally, your project repo should be ready for submission and include:
@@ -148,9 +150,9 @@ You will present your project to the class using your slidedeck.  This presentat
 
 ## Example Presentations
 
-[Capstone Example Presenation](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Presentation/kch_presentation.pdf)
+[Capstone Example Presenation](https://github.com/a-woodbury/RxVision/blob/master/Presentation/RxVision.pdf)
 
-[Mod 2 Project Example](https://github.com/viviandng/KC_House_Price)
+[Mod 2 Project Example](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Presentation/kch_presentation.pdf)
 
 ## Checklist
   Before submitting your project you may want to use this checklist to ensure your project is complete
@@ -199,7 +201,7 @@ You will present your project to the class using your slidedeck.  This presentat
   - [ ] Data understanding
   - [ ] Data preparation
   - [ ] Data visualizations
-  - [ ] A conclusion with findings and actional recommendations
+  - [ ] A conclusion with findings and actionable recommendations
 
 ### Presentation Content
 
