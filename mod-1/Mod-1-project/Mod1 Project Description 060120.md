@@ -140,9 +140,17 @@ You will present your project to the class using your slidedeck.  This presentat
 6. Alex
 
 
-## Sample Project Repo
+## Repository Example Templates
 
-__[Add here]__
+[Data Science Project Template](https://github.com/learn-co-curriculum/dsc-project-template/tree/example-mvp)
+
+[Mod 2 Project Example Repo](https://github.com/a-woodbury/A-House-with-a-View)
+
+## Example Presentations
+
+[Capstone Example Presenation](https://github.com/a-woodbury/A-House-with-a-View/blob/master/Presentation/kch_presentation.pdf)
+
+[Mod 2 Project Example](https://github.com/viviandng/KC_House_Price)
 
 ## Checklist
   Before submitting your project you may want to use this checklist to ensure your project is complete
