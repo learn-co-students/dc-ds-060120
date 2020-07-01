@@ -144,7 +144,7 @@ You will present your project to the class using your slidedeck.  This presentat
 
 1. Dan & Sam
 2. Clair Marie & Bobby
-3. Kames & Michael
+3. James & Michael
 4. Jim & Alex
 5. Nick, Jake, & Raven
 
