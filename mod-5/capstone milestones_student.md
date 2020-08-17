@@ -5,6 +5,7 @@
 |[10](#week10)|  | | • Capstone Initial Project Pitches (2 ideas written in Canvas)| |  |
 |[11](#week11)| • Revised Project Pitches | | | |•Project Pitch (1 idea) to Su verbally |
 |[12](#week12)| • Final Project Proposal in Canvas |• Lead give Capstone Project Approval  |   |   | • **Deadline**: Data in Hand <br>• Capstone Kickoff |
+| Week  | Monday | Tuesday | Wednesday | Thursday | Friday |
 | [13](#week13) | • Checkin: KanBan Setup/Goalsetting|• **Deadline**: Minimum 3 EDA Visualizations Done & First Stinky Model Run |• Checkin|• **Deadline**: Multiple Models Run & Evaluated  |• Checkin |
 | [14](#week14) | • Check-Ins| • **Deadline**: Final Model Selected & Draft of Slidedeck | • Minimum Viable Product Submissions |  | •  Feedback on MVP |
 | [15](#week15) |Campus Closed- Labor Day  | • Check-Ins <br> • 2nd Round MVP Submissions| • Capstone Showcase Runthrough<br>• Final Touches on Project Presentation and GitHub Repo | • HARD STOP @2PM <br> • Cohort Activity <br>  • Capstone Project Showcase | • Mod 5 Survey <br>• Graduation <br>• Final Feelings | 
