@@ -99,7 +99,7 @@ Evaluation is fairly straightforward for this project.  But you'll still need to
 
 ### Problem 4: Natural Language Processing (NLP)
 
-If you choose this option, you'll build an NLP model to analyze Twitter sentiment about Apple and Google products. The dataset comes from CrowdFlower via [data.world][]. Human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.
+If you choose this option, you'll build an NLP model to analyze Twitter sentiment about Apple and Google products. The dataset comes from CrowdFlower via [data.world](https://data.world/crowdflower/brands-and-product-emotions). Human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.
 
 Your task is to:
 
